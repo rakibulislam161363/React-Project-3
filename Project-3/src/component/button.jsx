@@ -1,9 +1,9 @@
 
- const Button = (clild) => {
+const Button = () => {
   return (
     
       <button className="text-center text-2xl">
-        {clild}
+        {}
       </button>
       
     
